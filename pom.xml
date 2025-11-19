@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines</artifactId>
+  <artifactId>cs1632-cicd-pipelines-zil99</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
@@ -55,7 +55,7 @@
 
     <dependency>
       <groupId>org.mockito</groupId>
-      <artifactId>cs1632-cicd-pipelines-zil99</artifactId>
+      <artifactId>mockito-core</artifactId>
       <version>5.7.0</version>
     </dependency>
 
